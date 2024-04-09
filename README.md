@@ -21,4 +21,8 @@ Then, trying to polish the process:
 
 ```
 
-I wish to upload urban data to analyse some building price and street activities, also visualize them in a proper way (hopefully on a map)
+This application showcases the Boston Housing dataset which contains data about various housing attributes in the Boston area. Here are the key factors we'll explore:
+
+- `dis`: Weighted distances to five Boston employment centers.
+- `crim`: Per capita crime rate by town.
+- `rm`: Average number of rooms per dwelling.
